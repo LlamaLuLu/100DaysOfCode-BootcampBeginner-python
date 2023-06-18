@@ -1,4 +1,6 @@
-# 🚨 Don't change the code below 👇
+# 7/11/2021
+# calculates romantic compatibility score of couple based on letters of name
+
 print("Welcome to the Love Calculator!")
 name1 = input("What is your name? \n")
 name2 = input("What is their name? \n")
