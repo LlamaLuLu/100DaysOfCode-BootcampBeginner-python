@@ -1,3 +1,6 @@
+# 16/11/2021
+# blind auction with multiple people
+
 from replit import clear
 from art import *
 
