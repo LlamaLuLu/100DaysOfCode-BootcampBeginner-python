@@ -1,4 +1,5 @@
 # 15/2/2023
+# higher-lower game: choose which celeb/group has more followers on instagram
 
 import random
 from art import *
