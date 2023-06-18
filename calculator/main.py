@@ -1,3 +1,6 @@
+# 1/12/2021
+# simple maths calculator
+
 from art import logo
 
 def add(n1, n2):
