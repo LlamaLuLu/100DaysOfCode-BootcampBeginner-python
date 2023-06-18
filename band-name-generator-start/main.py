@@ -1,4 +1,4 @@
-# 6/11/21
+# 6/11/2021
 
 #1. Create a greeting for your program.
 print("Welcome! Let's make your band name!")
