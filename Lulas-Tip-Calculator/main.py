@@ -1,4 +1,5 @@
 # 6/11/2021
+# calculates amount each person at table must pay for bill
 
 print("Welcome to the tip calculator!")
 bill = float(input("What was the total BILL?  "))
