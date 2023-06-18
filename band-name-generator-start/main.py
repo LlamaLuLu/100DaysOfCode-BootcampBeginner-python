@@ -1,3 +1,5 @@
+# 6/11/21
+
 #1. Create a greeting for your program.
 print("Welcome! Let's make your band name!")
 #2. Ask the user for the city that they grew up in.
